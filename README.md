@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information as a Front-End Web Developer and Junior Software Engineer.
 
-## 🚀 Features
+## Features
 
 - **Responsive Design:** Works on all devices
 - **Modern Stack:** Built with React and Vite
@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - **Downloadable CV:** Download my latest CV
 - **Social Links:** LinkedIn, GitHub, Email, WhatsApp
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React
 - Vite
@@ -21,7 +21,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - CSS
 
 
-## 📬 Contact
+## Contact
 
 - **Email:** kamaustacywaithera@gmail.com
 - **LinkedIn:** [Stacy Kamau](https://www.linkedin.com/in/stacy-kamau-753148267/)

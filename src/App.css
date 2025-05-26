@@ -155,9 +155,9 @@ body {
 
 /* General Sections Styling */
 section {
-  padding: 2rem 5%;
-  max-width: 1100px;
-  margin: 3rem auto;;
+  padding: 4rem 2%;
+  max-width: 1300px;
+  margin: 3rem auto;
   overflow-x: hidden;
   border-radius: 50px;
 }
@@ -180,7 +180,7 @@ p {
 
 /* Home Section */
 #home {
-  min-width: 95%;
+  min-width: 85%;
   text-align: center;
   min-height: 90vh;
   padding: 0 4%;

@@ -5,8 +5,7 @@ function About() {
         <section id="about">
             <h1>About Me</h1>
             <p>
-                I'm a Front-End Web Developer and Junior Software Engineer based in Nairobi, Kenya. Currently, I'm pursuing a Bachelor of Science 
-                in Mathematics and Computer Science at Jomo Kenyatta University of Agriculture and Technology (JKUAT).
+                I'm a Front-End Web Developer, Web Designer and Junior Software Engineer based in Nairobi, Kenya.
             </p> <br />
 
             <p>

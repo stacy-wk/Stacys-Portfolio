@@ -43,12 +43,23 @@ function Projects() {
 
                 {/* Empower Her Project */}
                 <div className="project">
-                    <img src="empowerher.jpg" alt="Empower Her" />
+                    <img src="empawa-ha.jpg" alt="Empower Her" />
                     <h3>Empower Her</h3>
                     <p>
                         A landing page designed for a women and children empowerment organization.
                     </p>
                     <a href="https://empower-her-xi.vercel.app/" target="_blank" className="btn">View Project</a>
+                </div>
+
+
+                {/* Nia & Co. Project */}
+                <div className="project">
+                    <img src="NIA-CO.jpg" alt="Nia & Co." />
+                    <h3>NIA & Co.</h3>
+                    <p>
+                        A multi-page landing page for Nia & Co., a creative agency focused on brand strategy, public relations, and visual storytelling.
+                    </p>
+                    <a href="https://nia-co.vercel.app/" target="_blank" className="btn">View Project</a>
                 </div>
 
 

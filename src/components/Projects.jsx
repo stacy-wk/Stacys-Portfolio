@@ -48,7 +48,7 @@ function Projects() {
                     <p>
                         A landing page designed for a women and children empowerment organization.
                     </p>
-                    <a href="https://empower-her-xi.vercel.app/" target="_blank" className="btn">View Project</a>
+                    <a href="https://empower-her-six.vercel.app/" target="_blank" className="btn">View Project</a>
                 </div>
 
 
@@ -60,6 +60,16 @@ function Projects() {
                         A multi-page landing page for Nia & Co., a creative agency focused on brand strategy, public relations, and visual storytelling.
                     </p>
                     <a href="https://nia-co.vercel.app/" target="_blank" className="btn">View Project</a>
+                </div>
+
+                {/* StudentOrg Project */}
+                <div className="project">
+                    <img src="StudentOrg.jpg" alt="StudentOrg" />
+                    <h3>StudentOrg</h3>
+                    <p>
+                        A full-stack web application designed to help students manage their academics, finances, mental well-being, and collaboration — all in one place.
+                    </p>
+                    <a href="https://student-org-app.vercel.app/" target="_blank" className="btn">View Project</a>
                 </div>
 
 

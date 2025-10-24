@@ -18,6 +18,9 @@ function Skills() {
                     <i className="fab fa-react"></i>ReactJS
                 </li>
                 <li>
+                    <i className="fab fa-express"></i>ExpressJS
+                </li>
+                <li>
                     <i className="fab fa-git-alt"></i>Git
                 </li>
                 <li>

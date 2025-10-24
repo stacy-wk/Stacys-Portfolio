@@ -5,7 +5,7 @@ function About() {
         <section id="about">
             <h1>About Me</h1>
             <p>
-                I'm a Front-End Web Developer, Web Designer and Junior Software Engineer based in Nairobi, Kenya.
+                I'm a Front-End Web Developer and Full-Stack Software Developer based in Nairobi, Kenya.
             </p> <br />
 
             <p>

@@ -9,8 +9,7 @@ function About() {
             </p> <br />
 
             <p>
-                I enjoy building responsive, user-friendly websites using HTML, CSS, JavaScript, and React. I’m also 
-                expanding my skills into backend development to become a well-rounded full stack developer.
+                I enjoy building responsive, user-friendly websites using HTML, CSS, JavaScript, and React. I’m also expanding my skills in backend development to become a well-rounded full stack developer.
             </p> <br />
 
             <p>

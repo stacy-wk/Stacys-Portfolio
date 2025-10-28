@@ -35,7 +35,7 @@ function Projects() {
                     <img src="empawa-ha.jpg" alt="Empower Her" />
                     <h3>Empower Her</h3>
                     <p>
-                        A sample landing page designed for a women and children empowerment organization.
+                        A sample landing page designed for a women and children empowerment NGO.
                     </p>
                     <a href="https://empower-her-six.vercel.app/" target="_blank" className="btn">View Project</a>
                 </div>

@@ -30,37 +30,16 @@ function Projects() {
                 </div>
 
 
-                {/* GreenFuture KE Project */}
-                <div className="project">
-                    <img src="green-future.jpg" alt="Green Future KE" />
-                    <h3>GreenFuture KE</h3>
-                    <p>
-                        A modern climate action site designed to support environmental causes across East Africa.
-                    </p>
-                    <a href="https://climate-action-hazel.vercel.app/" target="_blank" className="btn">View Project</a>
-                </div>
-
-
                 {/* Empower Her Project */}
                 <div className="project">
                     <img src="empawa-ha.jpg" alt="Empower Her" />
                     <h3>Empower Her</h3>
                     <p>
-                        A landing page designed for a women and children empowerment organization.
+                        A sample landing page designed for a women and children empowerment organization.
                     </p>
                     <a href="https://empower-her-six.vercel.app/" target="_blank" className="btn">View Project</a>
                 </div>
 
-
-                {/* Nia & Co. Project */}
-                <div className="project">
-                    <img src="NIA-CO.jpg" alt="Nia & Co." />
-                    <h3>NIA & Co.</h3>
-                    <p>
-                        A multi-page landing page for Nia & Co., a creative agency focused on brand strategy, public relations, and visual storytelling.
-                    </p>
-                    <a href="https://nia-co.vercel.app/" target="_blank" className="btn">View Project</a>
-                </div>
 
                 {/* StudentOrg Project */}
                 <div className="project">

@@ -20,7 +20,7 @@ function About() {
               className="cv-download-btn" 
                 id="download-cv" 
                 type="button"
-                onClick={() => window.open('/STACY-KAMAU-CURRICULUM VITAE.pdf', '_blank')}>
+                onClick={() => window.open('/STACYWKAMAU-CV.pdf', '_blank')}>
                     Download My CV Here
             </button>
         </section>

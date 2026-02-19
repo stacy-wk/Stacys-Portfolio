@@ -48,7 +48,7 @@ function Projects() {
                     <p>
                         A full-stack web application designed to help students manage their academics, finances, mental well-being, and collaboration — all in one place.
                     </p>
-                    <a href="https://student-org.vercel.app/" target="_blank" className="btn">View Project</a>
+                    <a href="https://github.com/stacy-wk/STUDENT-ORG" target="_blank" className="btn">View Project</a>
                 </div>
 
 

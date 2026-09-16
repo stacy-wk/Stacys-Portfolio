@@ -1,0 +1,57 @@
+PERSONAL PROFILE
+Full-Stack Software Developer with a background in Mathematics & Computer Science and hands-on experience building full-stack web applications and software products. Skilled across both frontend and backend development, API integration, databases. Experienced in collaborating on real-world software projects, debugging and testing systems, and developing practical solutions to user needs.
+
+EDUCATION 
+•	Bachelor of Science in Mathematics and Computer Science
+Jomo Kenyatta University of Agriculture and Technology (JKUAT) | September 2022 – December 2026
+•	Software Development Program – Full Stack Web Development (MERN Stack)
+Power Learn Project (PLP) | February 2025 – July 2025
+•	Artificial Intelligence & Machine Learning (AI & ML)
+Samsung Innovation Campus (SIC) | June 2026 – Present
+
+TECHNICAL SKILLS
+•	Frontend: HTML, CSS, JavaScript, React.js, TypeScript
+•	Backend: Python, Flask, Express.js, Node.js
+•	Mobile: React Native, Expo
+•	Databases: MySQL, MongoDB, Firebase/Firestore
+•	UI/UX & Design: Miro, Wireframing
+•	DevOps & Version Control: Git, GitHub, Docker, CI/CD
+•	Other: API Integration, Database Design, ERDs
+
+WORK EXPERIENCE
+Software Development Intern 
+JHUB Africa – JKUAT | June 2026 – August 2026
+•	Developed and enhanced the Samsung Innovation Campus Website and Learning Management System (LMS) using Python, Flask, JavaScript, HTML/CSS, and MySQL, building a full-stack platform with dedicated interfaces for Students, Instructors, and Admins.
+•	Built and connected Student and Instructor LMS functionality including authentication, dashboards, curriculum management, assignments, analytics, profiles, announcements, student progress tracking, and capstone projects.
+•	Integrated frontend interfaces with APIs and the database, replacing hardcoded data with dynamic, user-driven content that updates across the system based on activity.
+•	Collaborated with the development team using Git and GitHub, managing branches, resolving merge conflicts, and integrating team members' work into the main project.
+•	Tested the system, identified and fixed bugs, and supported Docker and CI/CD deployment, ensuring the different components of the LMS worked together correctly.
+
+PROJECTS
+GPS Attendance — Mobile App
+React Native (Expo), TypeScript, Firebase Auth & Firestore, Cloudinary, Expo Router
+•	Developed a mobile attendance system combining GPS geofencing and selfie verification, using expo-location and the Haversine formula to restrict attendance to within 100m of a lecture theatre.
+•	Built a guided selfie capture flow with Cloudinary uploads, Firestore attendance records, and duplicate-submission prevention based on student, unit, and date.
+•	Implemented institutional-email authentication, student profiles, smart course-based unit scheduling, and real-time attendance reports with attendance-rate visualization, history, and filtering.
+
+ 
+StudentOrg 
+ReactJS, ExpressJS, Firebase, NodeJS, Google Cloud Firestore
+•	Developed an all-in-one full-stack web application for centralizing students' academic, personal, and financial management.
+•	Implemented Firebase authentication and data storage and developed backend functionality using JavaScript.
+
+Weather App 
+ReactJS, JavaScript, Axios, OpenWeatherMap API
+•	Developed a weather application integrating the OpenWeatherMap API to display current temperature, humidity, wind speed, and a 5-day forecast.
+
+ 
+Palindrome Checker 
+JavaScript
+•	Developed a web-based palindrome checker with real-time validation, applying string manipulation, regular expressions, and event handling.
+
+CERTIFICATIONS
+•	Oracle Cloud Infrastructure Foundations Associate — Oracle
+•	Full Stack Software Development (MERN Stack) — Power Learn Project
+•	General Course on Intellectual Property — WIPO
+ 
+

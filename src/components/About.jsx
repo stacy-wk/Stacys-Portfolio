@@ -4,27 +4,32 @@ function About() {
     return(
         <section id="about">
             <h1>About Me</h1>
-            <p>
-                I'm a Full-Stack Software Developer based in Nairobi, Kenya.
-            </p> <br />
 
-            <p>
-                I enjoy building responsive, user-friendly websites using HTML, CSS, JavaScript, and React. I’m also expanding my skills in backend development to become a well-rounded full stack developer.
-            </p> <br />
+            <div className="about-intro">
+                <span className="about-pin"><i className="fas fa-map-pin"></i> Nairobi, Kenya</span>
+                <p>
+                    I'm a <strong>Full-Stack Software Developer</strong> with a background in
+                    <strong> Mathematics &amp; Computer Science</strong>, building web applications and software products end-to-end, from pixel-perfect frontends to dependable APIs and databases, and turning real-world user
+                    needs into practical, working software.
+                </p>
+                <p>
+                    I work across frontend and backend development, API integration and databases. I'm
+                    always learning, currently diving into <strong>AI &amp; Machine Learning</strong> at the <strong>Samsung Innovation Campus</strong>.
+                </p>
+                <br></br>
+            </div>
 
-            <p>
-                I value clean code, thoughtful design, and continuous learning. I'm passionate about tech that is both 
-                functional and visually impactful.
-            </p>
             <button
-              className="cv-download-btn" 
-                id="download-cv" 
+                className="cv-download-btn"
+                id="download-cv"
                 type="button"
                 onClick={() => window.open('/STACYWK-RESUME-.pdf', '_blank')}>
-                    Download My CV Here
+                    Download My CV <i className="fas fa-download"></i>
             </button>
+            <br></br>
+            <br></br>
+            <br></br>
         </section>
-
     )
 }
 

@@ -53,7 +53,7 @@ function Projects() {
 
                 {/* SIC Project */}
                 <div className="project">
-                    <img src="StudentOrg.jpg" alt="StudentOrg" />
+                    <img src="sic.jpg" alt="SIC" />
                     <h3>Samsung Innovation Campus website</h3>
                     <p>
                         A full-stack web platform for a tech-campus program. It unifies four experiences in one system: a public website, an admin back office, a student LMS, and an instructor workspace.
@@ -64,7 +64,7 @@ function Projects() {
 
                 {/* GPS Project */}
                 <div className="project">
-                    <img src="StudentOrg.jpg" alt="StudentOrg" />
+                    <img src="" alt="GPSMobileApp" />
                     <h3>GPS Student Attendance Mobile App</h3>
                     <p>
                         A React Native (Expo) mobile app that uses real-time GPS geofencing to ensure students are physically present in the classroom before marking attendance. The app verifies the user's location against a predefined classroom radius, displays the day's scheduled unit, and only enables the attendance button when GPS verification passes. 
